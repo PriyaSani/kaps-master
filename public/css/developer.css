@@ -1,0 +1,94 @@
+.hide{
+	display: none;
+}
+.mandatory{
+	color:red;
+}
+.mendatory_tag{
+	float: right;
+}
+.change_amount{
+	width: 94%;
+}
+.login_button{
+	background-color: #e2b168 !important;
+    border-color: #e2b168 !important;
+}
+.login_font{
+	color: #bb3d53 !important;
+}
+.login_button:hover{
+	background-color: #e2bf68;
+    border-color: #e2bf68;
+}
+.navigation_color{
+	background: #ffffff !important;
+}
+.save_button{
+	background-color: #39d9b9 !important;
+    border-color: #39d9b9 !important;
+}
+.save_button:hover{
+	background-color: #39d9b9 !important;
+    border-color: #39d9b9 !important;
+}
+
+.save_and_next_button{
+	background-color: #e2b168 !important;
+    border-color: #e2b168 !important;
+}
+.save_and_next_button:hover{
+	background-color: #e2bf68 !important;
+    border-color: #e2bf68 !important;
+}
+
+
+.page-item.active .page-link{
+	background-color: #e2b168 !important;
+	border-color: #e2b168 !important;
+}
+.btn-secondary{
+	background-color: #e2b168 !important;
+    border-color: #e2b168 !important;
+}
+
+.save_and_next_button.active{
+	color: #fff;
+    background-color: #e2bf68 !important;
+}
+
+.cancel_button{
+	background-color: #bb3d53 !important;
+    border-color: #bb3d53 !important;
+}
+.cancel_button:hover{
+	background-color: #bb3d53;
+    border-color: #bb3d53;
+}
+
+.toastr::before{
+	background-color: #e2bf68 !important;
+    border-color: #e2bf68 !important;
+}
+
+.toastr::after{
+	background-color: #fff !important;
+}
+
+.number_css:hover{
+	color:  #e2b168 !important;
+	text-decoration: none;
+    background-color: transparent;
+}
+
+.number_css{
+	color: #e2b168 !important;
+	text-decoration: none;
+    background-color: transparent;
+}
+
+.remove{
+	color: #fff !important;
+    background-color: #bb3d53 !important;
+    border-color: #bb3d53 !important;
+}
